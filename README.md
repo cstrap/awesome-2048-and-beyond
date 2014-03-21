@@ -35,3 +35,4 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 
 - [Bash 2048](https://github.com/mydzor/bash2048) Bash implementation of 2048 game
 - [Python implementations on github](https://github.com/search?q=python+20480) Some Python implementations
+- [Android apps](https://play.google.com/store/search?q=2048&c=apps) Some 2048 apps on Goole Play
