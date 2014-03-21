@@ -4,7 +4,7 @@
 Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 
 
-## xkcd mention
+## xkcd mentions
 - [Digits](http://xkcd.com/1344/) 
 
 
