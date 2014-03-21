@@ -7,6 +7,7 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 ## xkcd mentions
 - [Digits](http://xkcd.com/1344/) 
 
+
 ## github project
 
 - [2048](http://gabrielecirulli.github.io/2048/) Join the numbers and get to the 2048 tile!
@@ -16,6 +17,7 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [Flappy 2048](http://hczhcz.github.io/Flappy-2048/) Jump through the tiles and get to 2048!
 - [Fibonacci](http://themoreyouknow.github.io/fib) Join the numbers following each others in fibonacci sequence.
 - [Hexagon 16384](http://rudradevbasak.github.io/16384_hex/) Join the numbers and get to the 16384 tile! In an hexagon way!
+- [2048 for physicists](http://milrivel.github.io/LHC/) Collide these elementary particles and generate the Higgs Boson! 
 
 ## self hosted
 
@@ -26,6 +28,8 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [HN Plays 2048](https://hnplays2048.herokuapp.com/) Join the numbers and get to the 2048 tile! However, this is HN plays 2048, which means anybody who is online can move your pieces!
 - [HN Plays 2048 (democracy)](http://hnplays2048-democracy.herokuapp.com/) Join the numbers and get to the 2048 tile! However, this is HN plays 2048, which means anybody who is online can move your pieces! 
 - [2x2048](http://instapainting.com/2x2048/index.html) Join the numbers and get to the 2048 tile!, or have the most points at the end!
+- [2048 Numberwang](http://louhuang.com/2048-numberwang/) Join the numbers and get to the 6194 tile! Let’s play Numberwang!
+
 
 ## beyond the web...
 
