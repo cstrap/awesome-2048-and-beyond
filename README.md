@@ -4,11 +4,11 @@
 Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 
 
-## xkcd mentions
+## xkcd mention
 - [Digits](http://xkcd.com/1344/) 
 
 
-## github project
+## GitHub projects
 
 - [2048](http://gabrielecirulli.github.io/2048/) Join the numbers and get to the 2048 tile!
 - [2048 3D](http://joppi.github.io/2048-3D/) Join the numbers inside cube and get to the 2048 tile!
@@ -18,8 +18,9 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [Fibonacci](http://themoreyouknow.github.io/fib) Join the numbers following each others in fibonacci sequence.
 - [Hexagon 16384](http://rudradevbasak.github.io/16384_hex/) Join the numbers and get to the 16384 tile! In an hexagon way!
 - [2048 for physicists](http://milrivel.github.io/LHC/) Collide these elementary particles and generate the Higgs Boson! 
+- [2048 Numberwang](http://prat0318.github.io/2048-tetris/) 2048 Tetris 
 
-## self hosted
+## Self hosted
 
 - [Logarithmic Flappy 2048](http://logarithmic-flappy-2048.ajf.me/) Jump through the tiles and get to 2048!
 - [From 8 to 32768](http://poweroftwo.nemoidstudio.com/8) Join the numbers and get to the X tile! Choose your X difficulty.
