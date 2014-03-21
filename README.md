@@ -24,6 +24,7 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [9007199254740992](http://www.csie.ntu.edu.tw/~b01902112/9007199254740992/) Join the numbers and get to the 9007199254740992 tile!
 - [HN Plays 2048](https://hnplays2048.herokuapp.com/) Join the numbers and get to the 2048 tile! However, this is HN plays 2048, which means anybody who is online can move your pieces!
 - [HN Plays 2048 (democracy)](http://hnplays2048-democracy.herokuapp.com/) Join the numbers and get to the 2048 tile! However, this is HN plays 2048, which means anybody who is online can move your pieces! 
+- [2x2048](http://instapainting.com/2x2048/index.html) Join the numbers and get to the 2048 tile!, or have the most points at the end!
 
 ## beyond the web...
 
