@@ -18,7 +18,8 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [Fibonacci](http://themoreyouknow.github.io/fib) Join the numbers following each others in fibonacci sequence.
 - [Hexagon 16384](http://rudradevbasak.github.io/16384_hex/) Join the numbers and get to the 16384 tile! In an hexagon way!
 - [2048 for physicists](http://milrivel.github.io/LHC/) Collide these elementary particles and generate the Higgs Boson! 
-- [2048 Numberwang](http://prat0318.github.io/2048-tetris/) 2048 Tetris 
+- [2048 Tetris](http://prat0318.github.io/2048-tetris/) 2048 Tetris 
+
 
 ## Self hosted
 
