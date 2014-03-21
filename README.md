@@ -21,6 +21,8 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [2048 Tetris](http://prat0318.github.io/2048-tetris/) 2048 Tetris 
 
 
+
+
 ## Self hosted
 
 - [Logarithmic Flappy 2048](http://logarithmic-flappy-2048.ajf.me/) Jump through the tiles and get to 2048!
@@ -37,3 +39,4 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 
 - [Bash 2048](https://github.com/mydzor/bash2048) Bash implementation of 2048 game
 - [Python implementations on github](https://github.com/search?q=python+20480) Some Python implementations
+- [term2048] (https://github.com/bfontaine/term2048) 2048 In your terminal 
