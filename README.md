@@ -15,6 +15,7 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [4096](http://youknowone.github.io/4096/) Join the numbers and get to the 4096 tile!
 - [Flappy 2048](http://hczhcz.github.io/Flappy-2048/) Jump through the tiles and get to 2048!
 - [Fibonacci](http://themoreyouknow.github.io/fib) Join the numbers following each others in fibonacci sequence.
+- [Hexagon 16384](http://rudradevbasak.github.io/16384_hex/) Join the numbers and get to the 16384 tile! In an hexagon way!
 
 ## self hosted
 
