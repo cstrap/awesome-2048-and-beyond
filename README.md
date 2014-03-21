@@ -19,6 +19,8 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [Hexagon 16384](http://rudradevbasak.github.io/16384_hex/) Join the numbers and get to the 16384 tile! In an hexagon way!
 - [2048 for physicists](http://milrivel.github.io/LHC/) Collide these elementary particles and generate the Higgs Boson! 
 - [2048 Tetris](http://prat0318.github.io/2048-tetris/) 2048 Tetris 
+- [term2048] (https://github.com/bfontaine/term2048) 2048 In your terminal 
+- [bash2048] (https://github.com/mydzor/bash2048) Bash implementation of 2048 game
 
 
 ## Self hosted
