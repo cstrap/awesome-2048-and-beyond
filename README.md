@@ -23,4 +23,4 @@ Let's lost at least 8 hours of your life... then **multiply** it... ;-)
 - [Doge 2048](http://doge2048.com/) Let's play with Doge! So WOW! Much better!
 - [9007199254740992](http://www.csie.ntu.edu.tw/~b01902112/9007199254740992/) Join the numbers and get to the 9007199254740992 tile!
 - [HN Plays 2048](https://hnplays2048.herokuapp.com/) Join the numbers and get to the 2048 tile! However, this is HN plays 2048, which means anybody who is online can move your pieces!
-- [HN Plays 2048 Democracy](http://hnplays2048-democracy.herokuapp.com/) Join the numbers and get to the 2048 tile! However, this is HN plays 2048, which means anybody who is online can move your pieces! 
+- [HN Plays 2048 (democracy)](http://hnplays2048-democracy.herokuapp.com/) Join the numbers and get to the 2048 tile! However, this is HN plays 2048, which means anybody who is online can move your pieces! 
