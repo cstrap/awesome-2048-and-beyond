@@ -1,7 +1,7 @@
 # 2048 and beyond
 > Play and waste your time! :-)
 
-Let's lost at least 8 hours of your life... then **multiply** it... ;-)
+Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 
 
 ## xkcd mentions
