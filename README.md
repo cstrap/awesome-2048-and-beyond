@@ -33,7 +33,7 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [2048 Numberwang](http://louhuang.com/2048-numberwang/) Join the numbers and get to the 6194 tile! Let’s play Numberwang!
 - [65536](http://www.csie.ntu.edu.tw/~b01902112/65536/) Finished 2048? Try 65536
 - [2(048)](http://wegnerdesign.com/2048/) Split the numbers and get to the 2 tile!
-- [1125899906842624]() Join the numbers and get to the 1125899906842624 tile! Reach triple digits to engage hard mode, where tile values start **overlapping**! Fantastic!!!!!!
+- [1125899906842624](http://www.rileyjshaw.com/2048/) Join the numbers and get to the 1125899906842624 tile! Reach triple digits to engage hard mode, where tile values start **overlapping**! Fantastic!!!!!!
 - [Dropbox 2048](https://dropbox2048.site44.com/) Join the numbers and get to the 2048 tile! Save your high scores on Dropbox!
 - [.?.](http://prism.clay.io/) 2048 without numbers
 
