@@ -19,6 +19,7 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [Hexagon 16384](http://rudradevbasak.github.io/16384_hex/) Join the numbers and get to the 16384 tile! In an hexagon way!
 - [2048 for physicists](http://milrivel.github.io/LHC/) Collide these elementary particles and generate the Higgs Boson! - [2048 Tetris](http://prat0318.github.io/2048-tetris/) 2048 Tetris 
 - [LHC](http://mattleblanc.github.io/LHC/) Collide these elementary particles and generate the **HIGGS BOSON!** 
+- [2048 Stats](http://andirayo.github.io/2048stats/) Join the numbers and get to the 2048 tile! With stats!
 
 ## Self hosted
 
@@ -31,6 +32,10 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [2x2048](http://instapainting.com/2x2048/index.html) Join the numbers and get to the 2048 tile!, or have the most points at the end!
 - [2048 Numberwang](http://louhuang.com/2048-numberwang/) Join the numbers and get to the 6194 tile! Let’s play Numberwang!
 - [65536](http://www.csie.ntu.edu.tw/~b01902112/65536/) Finished 2048? Try 65536
+- [2(048)](http://wegnerdesign.com/2048/) Split the numbers and get to the 2 tile!
+- [1125899906842624]() Join the numbers and get to the 1125899906842624 tile! Reach triple digits to engage hard mode, where tile values start **overlapping**! Fantastic!!!!!!
+- [Dropbox 2048](https://dropbox2048.site44.com/) Join the numbers and get to the 2048 tile! Save your high scores on Dropbox!
+- [.?.](http://prism.clay.io/) 2048 without numbers
 
 ## beyond the web...
 
@@ -39,6 +44,9 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [Android apps](https://play.google.com/store/search?q=2048&c=apps) Some 2048 apps on Goole Play
 - [2048 Atari 2600](https://github.com/chesterbr/2048-2600) A port of the 2048 game to the Atari 2600 VCS
 - [term2048](https://github.com/bfontaine/term2048) 2048 In your terminal 
+- [sed2048](https://github.com/themattrix/sed2048) The 2048 game implemented in sed
 
-# AI Solver
+# AI Solver & Algorithms
 - [2048 solver](https://github.com/FelixNeutatz/2048_M-A-Star) This project provides an algorithm to solve the popular game 2048. The idea is based on the A* search algorithm. 
+- [Stackoverflow question](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048) What is the optimal algorithm for the game, 2048?
+- [Reddit comments](http://www.reddit.com/r/programming/comments/2046s6/2048_in_42_lines/) 2048 in 42 lines
