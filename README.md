@@ -45,6 +45,7 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [2048 Atari 2600](https://github.com/chesterbr/2048-2600) A port of the 2048 game to the Atari 2600 VCS
 - [term2048](https://github.com/bfontaine/term2048) 2048 In your terminal 
 - [sed2048](https://github.com/themattrix/sed2048) The 2048 game implemented in sed
+- [renzi2048](http://renzi2048.darlin.it/) Renzi2048
 
 # AI Solver & Algorithms
 - [2048 solver](https://github.com/FelixNeutatz/2048_M-A-Star) This project provides an algorithm to solve the popular game 2048. The idea is based on the A* search algorithm. 
