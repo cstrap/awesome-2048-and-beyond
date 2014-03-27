@@ -38,6 +38,7 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [Python implementations on github](https://github.com/search?q=python+20480) Some Python implementations
 - [Android apps](https://play.google.com/store/search?q=2048&c=apps) Some 2048 apps on Goole Play
 - [2048 Atari 2600](https://github.com/chesterbr/2048-2600) A port of the 2048 game to the Atari 2600 VCS
+- [term2048](https://github.com/bfontaine/term2048) 2048 In your terminal 
 
 # AI Solver
 - [2048 solver](https://github.com/FelixNeutatz/2048_M-A-Star) This project provides an algorithm to solve the popular game 2048. The idea is based on the A* search algorithm. 
