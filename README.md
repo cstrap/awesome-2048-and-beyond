@@ -5,6 +5,9 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 
 [Gabriele Cirulli](https://twitter.com/gabrielecirulli) started a revolution with his dead simple game: 2048. The code is released under the MIT license, and you are free to **hack it**. But if all the hours you spent playing the game were not enought, here is something for you.
 
+## News
+- [toucharcade 27.03.2014](http://toucharcade.com/2014/03/27/developers-release-all-570-threes-emails/) Cloned to Death: Developers Release all 570 Emails That Discussed the Development of 'Threes!' [...] Even though 1024, another clone of Threes, was released first, it was 2048 that gained a huge following [...]
+
 ## xkcd mentions
 - [Digits](http://xkcd.com/1344/)  2048 is so popular that Randall Munroe created a stripe for it.
 
