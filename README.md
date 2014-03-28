@@ -7,6 +7,7 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 
 ## News
 - [toucharcade 27.03.2014](http://toucharcade.com/2014/03/27/developers-release-all-570-threes-emails/) Cloned to Death: Developers Release all 570 Emails That Discussed the Development of 'Threes!' [...] Even though 1024, another clone of Threes, was released first, it was 2048 that gained a huge following [...]
+- [Threes](http://asherv.com/threes/threemails/) The Rip-offs & Making Our Original Game
 
 ## xkcd mentions
 - [Digits](http://xkcd.com/1344/)  2048 is so popular that Randall Munroe created a stripe for it.
