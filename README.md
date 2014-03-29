@@ -24,6 +24,7 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [2048 for physicists](http://milrivel.github.io/LHC/) Collide these elementary particles and generate the Higgs Boson! - [2048 Tetris](http://prat0318.github.io/2048-tetris/) 2048 Tetris 
 - [LHC](http://mattleblanc.github.io/LHC/) Collide these elementary particles and generate the **HIGGS BOSON!** 
 - [2048 Stats](http://andirayo.github.io/2048stats/) Join the numbers and get to the 2048 tile! With stats!
+- [2048 in Kivy](https://github.com/tito/2048) 2048 Game with Kivy Python
 
 ## Self hosted
 
@@ -50,9 +51,12 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [2048 Atari 2600](https://github.com/chesterbr/2048-2600) A port of the 2048 game to the Atari 2600 VCS
 - [term2048](https://github.com/bfontaine/term2048) 2048 In your terminal 
 - [sed2048](https://github.com/themattrix/sed2048) The 2048 game implemented in sed
-- [renzi2048](http://renzi2048.darlin.it/) Renzi2048
+- [2048 in Kivy](http://txzone.net/2014/03/2048-in-python-kivy/) 2048, in Python / Kivy
+- [hackerrank.com contest](https://www.hackerrank.com/contests/2048-game/challenges/2048) Current Contest: Let's play 2048! (Ends in few days...)
 
 # AI Solver & Algorithms
 - [2048 solver](https://github.com/FelixNeutatz/2048_M-A-Star) This project provides an algorithm to solve the popular game 2048. The idea is based on the A* search algorithm. 
 - [Stackoverflow question](http://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048) What is the optimal algorithm for the game, 2048?
 - [Reddit comments](http://www.reddit.com/r/programming/comments/2046s6/2048_in_42_lines/) 2048 in 42 lines
+- [Blog post](http://www.leaseweblabs.com/2014/03/text-mode-2048-game-c-algorithm-explained/) Text mode 2048 game in C, algorithm explained
+- [Reddit comments](http://www.reddit.com/r/programming/comments/21gnmn/text_mode_2048_game_in_c_for_your_linux_console/) Text mode 2048 game in C for your Linux
