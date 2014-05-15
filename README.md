@@ -54,6 +54,7 @@ Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
 - [sed2048](https://github.com/themattrix/sed2048) The 2048 game implemented in sed
 - [2048 in Kivy](http://txzone.net/2014/03/2048-in-python-kivy/) 2048, in Python / Kivy
 - [hackerrank.com contest](https://www.hackerrank.com/contests/2048-game/challenges/2048) Current Contest: Let's play 2048! (Ends in few days...)
+- [text2048](https://github.com/yasuhito/text2048) Text mode 2048 
 
 # AI Solver & Algorithms
 - [2048 solver](https://github.com/FelixNeutatz/2048_M-A-Star) This project provides an algorithm to solve the popular game 2048. The idea is based on the A* search algorithm. 
