@@ -1,5 +1,4 @@
-# Awesome 2048 
-###### - previously known as 2048 and beyond
+# Awesome 2048 and beyond
 > Play and waste your time! :-)
 
 Waste and lose at least 8 hours of your life... then **multiply** it... ;-)
